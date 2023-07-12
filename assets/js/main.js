@@ -9,7 +9,6 @@
 (function() {
   "use strict";
   
-  // document.body.style.zoom="90%";
 
   /**
    * Easy selector helper function
