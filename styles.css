@@ -466,6 +466,21 @@ section {
   background-color: #149ddd;
 }
 
+.skill-percent {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.tech-icon {
+  font-size: 3rem;
+  filter: grayscale(100%);
+}
+
+img.tech-icon {
+  height: 3rem;
+  filter: grayscale(100%);
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
