@@ -161,6 +161,36 @@
     })
   }
 
+  // /**
+  //  * Skills Text Appear on Click
+  //  */
+  // if (window.innerWidth <= 768) {
+  //   var skillIcons = document.getElementsByClassName('tech-icon');
+
+  //   Array.from(skillIcons).forEach(function(icon) {
+  //     icon.addEventListener('click', function() {
+  //       icon.classList.add('show-text');
+  //     });
+  //   });
+  // }
+
+
+  // /**
+  //  * Skills Text Disappear on Scroll
+  //  */
+  // if (window.innerWidth <= 768) {
+  //   var skillsContent = document.getElementById('skills');
+
+  //   skillsContent.addEventListener('scroll', function() {
+  //     var skillIcons = document.getElementsByClassName('tech-icon');
+      
+  //     Array.from(skillIcons).forEach(function(icon) {
+  //       icon.classList.remove('show-text');
+  //     });
+  //   });
+  // }
+
+
   /**
    * Porfolio isotope and filter
    */
