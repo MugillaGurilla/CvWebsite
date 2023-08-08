@@ -569,6 +569,16 @@ img.tech-icon {
   border-radius: 10px;
 }
 
+@media (max-width: 999px) {
+  .experience-img {
+      width: 60vw; 
+      max-width: 400px;
+      margin: 0 auto;
+      display: block;
+  }
+}
+
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
